@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+h2,h1{
+    text-align: center;
+}
+
+.inline-buttons {
+  text-align: center;
+}
+
+.btn{
+  color: #fff;
+  background-color: rgb(92, 124, 100);
+  border-color: #fff;
+}
+
+#rectangle{
+  margin-left: auto;
+  margin-right: auto;
+  background:rgb(2, 2, 12);
+  border-radius: 40px;
+  width: 50%;
+}
+
+.interior{
+  color: rgb(160, 189, 173);
+  font-family: 'Outfit', sans-serif;
+}
+  
+
+
